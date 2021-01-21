@@ -1,0 +1,35 @@
+.header{
+    height: 200px;
+    width: auto;
+    background-color : rgb(61, 58, 58);
+    position: relative;
+    
+}
+
+h1{
+    position: absolute;
+    color: whitesmoke;
+    margin-top: 5%;
+    margin-left: 35%;
+    margin-right: 35%;
+    
+    text-align: center;
+}
+
+.serachBarStyle{
+    
+    background-color: white;
+}
+
+.history{
+    margin-left: 10px;
+}
+
+.forecast{
+    position: relative;
+    top: -10px;
+}
+
+.small{
+    
+}
